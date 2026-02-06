@@ -29,13 +29,9 @@ This project integrates multi-dimensional datasets to bridge the gap between "ar
 
 
 ##  📈 Executive Summary
-- **** : 
-- **The Solution**: I evolved my approach from simple classification to a Prestige-Recall Engine. By engineering a "Prestige Score" and tuning for sensitivity, I achieved 94% Recall.
-- **The Impact**: This model eliminates "creative gambling," identifying the 1% of assets that drive 90% of global revenue with near-perfect reliability.
-
-## 💡Insight Deepdive 
-- **Execution Alpha**: Studio pedigree is the #1 force-multiplier. High-potential IP must be paired with studios that have IP Ownership (e.g., MAPPA, KyoAni) to ensure quality alignment.
-- **The Emotional Moat**: While Action "hooks" fans, Drama and Fantasy drive the long-term loyalty and merchandise sales that sustain an IP for decades.
+- **Proven Resilience** : Through Volatility Despite the unprecedented "COVID dip," the portfolio's diversified structure enabled a rapid recovery, driven by the exceptional performance of Tech stocks and REITs (specifically data centers).
+- **Validated Risk-Reward Architecture**: Correlation and volatility data confirm that the assets are effectively decoupled; the government bond "anchors" protected the portfolio during downturns, while the "growth engines" captured significant market upside.
+- **Dynamic Weight Management**: To mitigate future "Black Swan" events, we will continue to dynamically rebalance asset weights—reducing exposure to shrinking sectors and capitalizing on emerging growth to ensure long-term wealth accumulation.
   
 ## 🎯 Recommendations
 - **Adding High quality value stocks**: Increase exposure to "Old Economy" industries, specifically Healthcare, Industrial, and Financials. These sectors typically consist of established companies with consistent cash flows and lower price fluctuations. 
