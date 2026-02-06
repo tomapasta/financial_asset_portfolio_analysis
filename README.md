@@ -22,7 +22,7 @@ Performance assessment of five assets across three classes (Fixed Income, Equity
 
 
 ##  📈 Executive Summary
-- **Proven Resilience** : Through Volatility Despite the unprecedented "COVID dip," the portfolio's diversified structure enabled a rapid recovery, driven by the exceptional performance of Tech stocks and REITs (specifically data centres).
+- **Proven Resilience Through Volatility** Despite the unprecedented "COVID dip," the portfolio's diversified structure enabled a rapid recovery, driven by the exceptional performance of Tech stocks and REITs (specifically data centres).
 - **Validated Risk-Reward Architecture**: Correlation and volatility data confirm that the assets are effectively decoupled; the government bond "anchors" protected the portfolio during downturns, while the "growth engines" captured significant market upside.
 - **Dynamic Weight Management**: To mitigate future "Black Swan" events, we will continue to dynamically rebalance asset weights—reducing exposure to shrinking sectors and capitalizing on emerging growth to ensure long-term wealth accumulation.
   
