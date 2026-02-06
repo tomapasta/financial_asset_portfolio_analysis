@@ -13,14 +13,7 @@ Performance assessment of five assets across three classes (Fixed Income, Equity
 
 ---
 
-## Project Background & Overview
-***Turning Cultural Prestige into Global Profitability***
-
-While Ghibli and Shinkai elevated Anime to a global art form, the industry now faces a structural paradox. With Japan's domestic market at saturation, the $25B industry, now growing overseas, is entering its most ambitious era of expansion.
-
-
 ## 📊 Data Architecture 
-This project integrates multi-dimensional datasets to bridge the gap between "artistic popularity" and "commercial global success."
 | Pillar                       | Source                                                    | Key Features / Data Points                                                                                    |
 | :----------------------------- | :-------------------------------------------------------- | :----------------------------------------------------------------------------------------- |
 | **Asset Information**             | Synthetic, Ironhack                               | Asset Class                           |
@@ -29,7 +22,7 @@ This project integrates multi-dimensional datasets to bridge the gap between "ar
 
 
 ##  📈 Executive Summary
-- **Proven Resilience** : Through Volatility Despite the unprecedented "COVID dip," the portfolio's diversified structure enabled a rapid recovery, driven by the exceptional performance of Tech stocks and REITs (specifically data centers).
+- **Proven Resilience** : Through Volatility Despite the unprecedented "COVID dip," the portfolio's diversified structure enabled a rapid recovery, driven by the exceptional performance of Tech stocks and REITs (specifically data centres).
 - **Validated Risk-Reward Architecture**: Correlation and volatility data confirm that the assets are effectively decoupled; the government bond "anchors" protected the portfolio during downturns, while the "growth engines" captured significant market upside.
 - **Dynamic Weight Management**: To mitigate future "Black Swan" events, we will continue to dynamically rebalance asset weights—reducing exposure to shrinking sectors and capitalizing on emerging growth to ensure long-term wealth accumulation.
   
